@@ -1,0 +1,2 @@
+iperf -s m
+iperf3 -c 10.20.0.21 -f K -R
